@@ -67,8 +67,8 @@ const Contact = () => {
               <div className="mt-8 w-full border-t border-gray-200 p-2 pt-8 text-center">
                 <a className="text-green-500">andrius_veagn@vegan.com</a>
                 <p className="my-5 leading-normal">
-                  49 Vegan St.
-                  <br>Vegan Cloud, VG 56301 </br>
+                  49 Vegan St. <br />
+                  Vegan Cloud, VG 56301
                 </p>
                 <span className="inline-flex">
                   <a className="text-gray-500">
